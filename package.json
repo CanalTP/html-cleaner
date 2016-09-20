@@ -1,0 +1,20 @@
+{
+  "name": "html-cleaner",
+  "description": "Transform html to be more semantic. Useful when rendering WYSIWYG content.",
+  "author": {
+    "email": "johan.rouve@kisio.org",
+    "name": "Johan Rouve"
+  },
+  "version": "1.0.0",
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  },
+  "dependencies": {
+    "htmlparser": "^1.7.7"
+  },
+  "titaniumManifest": {
+    "guid": "38b64eef-544c-165f-ae03-9d71bc6df026"
+  },
+  "main": "index.js"
+}
