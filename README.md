@@ -1,4 +1,4 @@
-# html-cleaner
+# html-cleaner [![Build Status](https://travis-ci.org/CanalTP/html-cleaner.svg?branch=master)](https://travis-ci.org/CanalTP/html-cleaner)
 Transform html to be more semantic. Useful when rendering WYSIWYG content.
 
 | inline style | inner tag |
