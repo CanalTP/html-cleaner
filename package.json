@@ -17,6 +17,13 @@
     "guid": "38b64eef-544c-165f-ae03-9d71bc6df026",
     "moduleid": "org.kisio.htmlcleaner"
   },
+  "keywords": [
+    "titanium",
+    "titaniumifier",
+    "semantic",
+    "html",
+    "clean"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "mocha tests"
